@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36D3ED9-D3A3-4CC3-AEB5-DF097DACF2BA}|Service\\Service.csproj|c:\\users\\carlos\\downloads\\challengesuriscode\\service\\service\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D3ED9-D3A3-4CC3-AEB5-DF097DACF2BA}|Service\\Service.csproj|solutionrelative:service\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36D3ED9-D3A3-4CC3-AEB5-DF097DACF2BA}|Service\\Service.csproj|c:\\users\\carlos\\downloads\\challengesuriscode\\service\\service\\model\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D3ED9-D3A3-4CC3-AEB5-DF097DACF2BA}|Service\\Service.csproj|solutionrelative:service\\model\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36D3ED9-D3A3-4CC3-AEB5-DF097DACF2BA}|Service\\Service.csproj|c:\\users\\carlos\\downloads\\challengesuriscode\\service\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D3ED9-D3A3-4CC3-AEB5-DF097DACF2BA}|Service\\Service.csproj|solutionrelative:service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\Service\\Model\\Reserva.cs",
+              "RelativeDocumentMoniker": "Service\\Model\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\Service\\Model\\Reserva.cs",
+              "RelativeToolTip": "Service\\Model\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:47:04.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\Service\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\Service\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Service\\Controllers\\MainController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAArwD4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:35.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\Service\\Program.cs",
+              "RelativeDocumentMoniker": "Service\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Downloads\\ChallengeSurisCode\\Service\\Service\\Program.cs",
+              "RelativeToolTip": "Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:29:19.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
